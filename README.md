@@ -3,6 +3,9 @@ The Place Where Functional Wisdom Is Found
 
 # if you have found some niffty stuff, feel free to pull request
 
+# most of stuff you'll need to know (and probably much better page than mine)
+https://github.com/este/este/wiki/Learn-JavaScript-and-stuff
+
 # some clever functional libraries
 https://lodash.com/
 
@@ -11,8 +14,6 @@ https://facebook.github.io/relay/
 https://facebook.github.io/immutable-js/
 
 # other interesting github pages
-https://github.com/este/este/wiki/Learn-JavaScript-and-stuff
-
 https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
 
 # funcional concepts
