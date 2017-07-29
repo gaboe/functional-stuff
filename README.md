@@ -7,11 +7,14 @@ The Place Where Functional Wisdom Is Found
 https://github.com/este/este/wiki/Learn-JavaScript-and-stuff
 
 # reason(ML) is language you have probably dreamed about
-Facebook founded, multiparadigm, type safe language. There is a lot of reasons why it will replace javascript (typesript, flow) in at least React appps. Thanks to its implementation straight to special OS written in OCaml is blazing fast and can be used in backend, IoT devices, etc. Designers try to implement many features from web metalanguage straight to language itself, so you won't need babels, type configs, specific tooligns for refactorings.
+Facebook founded, multiparadigm, type safe language based on OCaml, F#, Haskell, Elm. There is a lot of reasons why it will replace javascript supersets (typesript, flow) in at least in React apps. Thanks to its implementation straight to special OS written in OCaml is blazing fast and can be used in backend, IoT devices, etc. ;App writen in Reason can start in 15 ms. Language is translated to vannilla js, by way you cannont distinguish generated code from normal code. Designers try to implement many features from web metalanguage straight to language itself, so you won't need babels, type configs, specific tools for refactoring.
 
 https://reasonml.github.io/
+
 https://reasonml.github.io/reason-react/#reason-react
+
 https://www.youtube.com/watch?v=_0T5OSSzxms
+
 https://www.youtube.com/watch?v=vTb8UU_Yjmk
 
 # some clever functional libraries
