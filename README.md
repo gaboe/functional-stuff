@@ -6,6 +6,14 @@ The Place Where Functional Wisdom Is Found
 # most of stuff you'll need to know (and probably much better page than mine)
 https://github.com/este/este/wiki/Learn-JavaScript-and-stuff
 
+# reason(ML) is language you have probably dreamed about
+Facebook founded, multiparadigm, type safe language. There is a lot of reasons why it will replace javascript (typesript, flow) in at least React appps. Thanks to its implementation straight to special OS written in OCaml is blazing fast and can be used in backend, IoT devices, etc. Designers try to implement many features from web metalanguage straight to language itself, so you won't need babels, type configs, specific tooligns for refactorings.
+
+https://reasonml.github.io/
+https://reasonml.github.io/reason-react/#reason-react
+https://www.youtube.com/watch?v=_0T5OSSzxms
+https://www.youtube.com/watch?v=vTb8UU_Yjmk
+
 # some clever functional libraries
 https://lodash.com/
 
@@ -30,8 +38,6 @@ http://gorodinski.com/blog/2013/09/18/oop-patterns-from-a-functional-perspective
 https://neildanson.wordpress.com/2014/03/04/it-just-works/
 
 # languages
-https://reasonml.github.io/
-
 https://docs.microsoft.com/en-us/dotnet/fsharp/
 
 
