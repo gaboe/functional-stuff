@@ -7,7 +7,7 @@ The Place Where Functional Wisdom Is Found
 https://github.com/este/este/wiki/Learn-JavaScript-and-stuff
 
 # Reason(ML) is language you have probably dreamed about
-Facebook founded, multiparadigm, type safe language based on OCaml, F#, Haskell, Elm. Basicly it is new syntax for OCaml, so it looks more like javascript. There is a lot of reasons why it will replace javascript supersets (typesript, flow) in at least in React apps. Thanks to its implementation straight to special OS written in OCaml is blazing fast and can be used in backend, IoT devices, etc. App writen in Reason can start in 15 ms. Language is translated to vannilla js, by way you cannont distinguish generated code from normal code. Designers try to implement many features from web metalanguage straight to language itself, so you won't need babels, type configs, specific tools for refactoring.
+Facebook founded, multiparadigm, type safe language based on OCaml, F#, Haskell, Elm. Basicly it is new syntax for OCaml, so it looks more like javascript. There is a lot of reasons why it will replace javascript supersets (typesript, flow) in at least for React apps. Thanks to its implementation straight to special OS written in OCaml is blazing fast and can be used in backend, IoT devices, etc. App writen in Reason can start in 15 ms. Language is translated to vannilla js, by way you cannont distinguish generated code from normal code. Designers try to implement many features from web metalanguage straight to language itself, so you won't need babels, type configs, specific tools for refactoring.
 
 As today 30% of Facebook's Messenger is written in Reason, and React community (cult) is adopting this language as fast as posible and it is predicted, that to end of 2017, Reason's apps will be ready for production.
 
@@ -19,10 +19,21 @@ https://www.youtube.com/watch?v=_0T5OSSzxms
 
 https://www.youtube.com/watch?v=vTb8UU_Yjmk
 
+https://jamesfriend.com.au/routing-in-reason-react
+
+https://jaredforsyth.com/2017/07/05/a-reason-react-tutorial/
+
+# React related
+https://facebook.github.io/relay/
+
+https://www.learnrelay.org/overview/intro/
+
+https://github.com/kriasoft/react-starter-kit
+
+http://engineering.kapost.com/2016/01/organizing-large-react-applications/
+
 # some clever functional libraries
 https://lodash.com/
-
-https://facebook.github.io/relay/
 
 https://quip.com/oLxzA1gTsJsE
 
