@@ -26,6 +26,9 @@ https://jaredforsyth.com/2017/07/05/a-reason-react-tutorial/
 # React related
 https://facebook.github.io/relay/
 
+Relay compared to other storages
+https://www.reindex.io/blog/redux-and-relay/
+
 https://www.learnrelay.org/overview/intro/
 
 https://github.com/kriasoft/react-starter-kit
