@@ -35,6 +35,8 @@ https://github.com/kriasoft/react-starter-kit
 
 http://engineering.kapost.com/2016/01/organizing-large-react-applications/
 
+https://github.com/planningcenter/react-patterns/blob/master/README.md
+
 # some clever functional libraries
 https://lodash.com/
 
